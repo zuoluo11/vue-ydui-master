@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
     <br>
     <a href="http://vue.ydui.org">
         <img width="200" src="http://static.ydcss.com/ydui/img/logo.png">
@@ -7,7 +7,7 @@
 </p>
 <br/>
 
-#### 一只基于Vue2.x的移动端&微信UI。 -YDUI Touch
+#### (学习项目)一只基于Vue2.x的移动端&微信UI。 -YDUI Touch
 
 Home: <a href="http://vue.ydui.org"> http://vue.ydui.org </a>  
 Docs: <a href="http://vue.ydui.org/docs"> http://vue.ydui.org/docs </a>  
